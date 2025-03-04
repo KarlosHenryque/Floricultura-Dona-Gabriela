@@ -1,4 +1,5 @@
 Floricultura Dona Gabriela
+
 Este projeto foi desenvolvido como parte de uma atividade de aprendizado e tem como objetivo criar uma calculadora de vendas para a loja de plantas exóticas de Dona Gabriela.
 
 Sobre o Projeto
